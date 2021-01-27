@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Srushti Shah
 
 # TECHNOLOGY COLOPHON
 
